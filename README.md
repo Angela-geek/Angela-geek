@@ -28,14 +28,14 @@
 |----------|-------------|
 | **GreenTech Rwanda** | Tackling environmental and energy challenges through innovation. |
 | **Artificial Charcoal Project** | Creating eco-friendly charcoal from waste materials. |
-| **Pulley Mechanism Project** | Designed a fixed pulley system for national exams. |
+| **MyApp** | Management of students at school. |
 
 
 
 ### 📫 Get in Touch
-- 💌 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 🌐 LinkedIn: [Your LinkedIn](#)  
-- 🧭 GitHub: [kanam-angel](https://github.com/kanam-angel)
+- 💌 Email: [your-email@example.com](mailto:inezaangek@gmail.com)  
+- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kanamugire-ange-771a87389)  
+- 🧭 GitHub: [kanam-angel](https://github.com/angela-greek)
 
 
 
