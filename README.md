@@ -28,14 +28,14 @@
 |----------|-------------|
 | **GreenTech Rwanda** | Tackling environmental and energy challenges through innovation. |
 | **Artificial Charcoal Project** | Creating eco-friendly charcoal from waste materials. |
-| **MyApp** | Management of students at school. |
+| **Estudiar** | Management of students at school. |
 
 
 
 ### 📫 Get in Touch
-- 💌 Email: [your-email@example.com](mailto:inezaangek@gmail.com)  
-- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/kanamugire-ange-771a87389)  
-- 🧭 GitHub: [kanam-angel](https://github.com/angela-greek)
+- 💌 Email: [inezaangek@gmail.com](mailto:inezaangek@gmail.com)  
+- 🌐 LinkedIn: [kanamugire-ange-771a87389](https://www.linkedin.com/in/kanamugire-ange-771a87389)  
+- 🧭 GitHub: [angela-greek](https://github.com/angela-greek)
 
 
 
