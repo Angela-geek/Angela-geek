@@ -26,8 +26,7 @@
 ### 🚀 Projects
 | Project | Description |
 |----------|-------------|
-| **GreenTech Rwanda** | Tackling environmental and energy challenges through innovation. |
-| **Artificial Charcoal Project** | Creating eco-friendly charcoal from waste materials. |
+| **Vogue Rwanda** | Uses local talent and materials to craft authentic fashion content. |
 | **Estudiar** | Management of students at school. |
 
 
