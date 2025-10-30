@@ -6,12 +6,7 @@
 
 
 ### 🌍 About Me
-- 🎓 Recent high school graduate  
-- ⚙️ Founder of **GreenTech Rwanda**, addressing:
-  - Weather forecasting & farming techniques  
-  - Waste management & recycling  
-  - Rural access to electricity  
-- 💚 Working on **Black Solution Firm**, turning waste into artificial charcoal  
+- 🎓 Recent high school graduate. 
 - 🧠 Always learning about sustainable engineering and AI for good
 
 
