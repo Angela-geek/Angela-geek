@@ -23,6 +23,8 @@
 |----------|-------------|
 | **Vogue Rwanda** | Uses local talent and materials to craft authentic fashion content. |
 | **Estudiar** | Management of students at school. |
+| **SERENiBOT** | An AI platform for smart automation and conversational intelligence. |
+
 
 
 
